@@ -33,7 +33,7 @@ function Home() {
     "Hello Matjulu Kruger Lodge, I'd like to enquire about availability and make a reservation.";
 
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen pb-16 md:pb-0">
       {/* Header */}
       <header className="fixed inset-x-0 top-0 z-40 border-b border-border/40 bg-background/80 backdrop-blur-md">
         <div className="mx-auto flex max-w-6xl items-center justify-between px-5 py-3">
